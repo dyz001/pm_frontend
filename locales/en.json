@@ -1,0 +1,21 @@
+{
+  "common": {
+    "projectList": "Project List",
+    "newProject": "New Project",
+    "title": "Title",
+    "code": "Code",
+    "status": "Status",
+    "createdAt": "Created At",
+    "actions": "Actions",
+    "open": "Open",
+    "build": "Build",
+    "deploy": "Deploy",
+    "update": "Update",
+    "clone": "Clone",
+    "delete": "Delete",
+    "notCloned": "Not Cloned",
+    "modified": "Modified",
+    "behind": "Behind",
+    "upToDate": "Up to Date"
+  }
+}
